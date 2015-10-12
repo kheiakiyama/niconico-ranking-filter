@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Niconico Ranking Filter",
   "description": "Display Niconico Ranking Filtered",
-  "version": "0.01",
+  "version": "0.1",
   "permissions": [
     "activeTab",
     "http://www.nicovideo.jp/"
